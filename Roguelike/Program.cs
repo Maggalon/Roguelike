@@ -1,3 +1,32 @@
+<<<<<<< HEAD
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Runtime.InteropServices;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
+namespace rpg_console
+{
+    class Program : Fight
+    {
+        public Program(string name, int health, int armor, int damage) : base(name, health, armor, damage)
+        {
+        }
+
+        static void Main(string[] args)
+        {
+            Fight player = new Fight("German", 100, 123, 1);
+            Fight enemy = new Fight("Heroes of Might and Magic III", 11, 11, 11);
+            Attack(player,enemy);
+
+        }
+
+
+    }
+}
+=======
 ﻿using System.Diagnostics.SymbolStore;
 using Roguelike;
 
@@ -21,3 +50,4 @@ public class Program
         }
     }
 }
+>>>>>>> 1ccd0729b94219b4d2d68c73e6126784591e13be
