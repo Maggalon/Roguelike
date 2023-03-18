@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Source\\Repos\\Roguelike\\Roguelike\\Roguelike.csproj": {}
+    "C:\\Users\\user\\source\\repos\\Roguelike\\Roguelike\\Roguelike.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Source\\Repos\\Roguelike\\Roguelike\\Roguelike.csproj": {
+    "C:\\Users\\user\\source\\repos\\Roguelike\\Roguelike\\Roguelike.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\Roguelike\\Roguelike\\Roguelike.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Roguelike\\Roguelike\\Roguelike.csproj",
         "projectName": "Roguelike",
-        "projectPath": "C:\\Users\\user\\Source\\Repos\\Roguelike\\Roguelike\\Roguelike.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Roguelike\\Roguelike\\Roguelike.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\user\\Source\\Repos\\Roguelike\\Roguelike\\obj\\",
         "projectStyle": "PackageReference",
